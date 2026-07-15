@@ -14,8 +14,3 @@ Come per la card di Teresa, questo codice viene conservato senza modifiche succe
 ## Tecnologie Utilizzate
 * HTML5 (Marcatura e organizzazione dei testi)
 * CSS3 (Stilizzazione, palette colori e design responsive)
-
----
-
-## Licenza
-Questo progetto è rilasciato sotto licenza MIT.
